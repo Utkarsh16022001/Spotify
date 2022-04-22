@@ -1,2 +1,2 @@
 # Spotify
-spotify site:http://utkarsh-goel-spotify-clone.netlify.app
+Spotify site in action at:http://utkarsh-goel-spotify-clone.netlify.app
